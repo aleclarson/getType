@@ -1,16 +1,11 @@
 {
   "name": "getType",
   "version": "1.0.0",
-  "main": "js/src/getType",
+  "main": "getType.js",
   "dependencies": {
     "Nan": "aleclarson/Nan#1.1.0",
     "Null": "aleclarson/Null#1.0.0",
     "PureObject": "aleclarson/PureObject#1.0.0",
     "Void": "aleclarson/Void#1.0.0"
-  },
-  "lotus": {
-    "plugins": [
-      "lotus-coffee"
-    ]
   }
 }
