@@ -1,6 +1,6 @@
 {
   "name": "getType",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "getType.js",
   "dependencies": {
     "Nan": "aleclarson/Nan#1.1.1",

@@ -1,5 +1,5 @@
 
-# getType 1.0.0 ![stable](https://img.shields.io/badge/stability-stable-4EBA0F.svg?style=flat)
+# getType v1.0.1 ![stable](https://img.shields.io/badge/stability-stable-4EBA0F.svg?style=flat)
 
 Returns the type of a given value.
 
