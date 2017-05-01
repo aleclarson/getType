@@ -1,0 +1,11 @@
+{
+  "name": "getType",
+  "version": "1.0.2",
+  "main": "getType.js",
+  "dependencies": {
+    "Nan": "aleclarson/Nan#1.1.2",
+    "Null": "aleclarson/Null#1.0.2",
+    "PureObject": "aleclarson/PureObject#1.0.2",
+    "Void": "aleclarson/Void#1.0.2"
+  }
+}
